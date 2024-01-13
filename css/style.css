@@ -1,0 +1,45 @@
+.container {
+  width: 1280px;
+  max-width: 100%;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-block {
+}
+
+.header {
+  background-color: aqua;
+}
+.header-logo {
+  color: #fff;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: auto;
+}
+.header-navigation {
+}
+.header-list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.header-list-item {
+}
+.header-list-link {
+  color: #fff;
+
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
